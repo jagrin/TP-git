@@ -1,4 +1,4 @@
-### application.bat - 2015 - Sebastien THOMAS ###
+### application.bat - 2015 - Sebastien THOMAS - Mathilde Kerhom ###
 version = "2"
 build_hour = "11H00"
 
